@@ -9,5 +9,6 @@ Live Demo Link: https://saas-subscription-manager-7aub9vbhaaqxpbz9eq6t6t.streaml
 - User subscriptions
 - Billing dashboard
 
-## Live Demo
-(Deploy on Streamlit Cloud)
+<img width="1918" height="707" alt="image" src="https://github.com/user-attachments/assets/633fb8de-0679-4546-94bd-2935a8f21a70" />
+
+
